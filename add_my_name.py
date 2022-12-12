@@ -2,7 +2,7 @@
 def main():
     outfile = open('philosophers.txt', 'a')
 
-    outfile.write("Johnny Bhojwani\n")
+    outfile.write("Johnny Bhojwanii\n")
 
     outfile.close()
 
